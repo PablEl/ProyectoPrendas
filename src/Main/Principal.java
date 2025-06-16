@@ -12,6 +12,9 @@ public class Principal {
 		Ropas ropa1 = new Ropas("No me la se", 200, "blanco", 50);
 		Ropas ropa2 = new Ropas("Gucci", 10000, "Verde", 2);
 		
+		//Modificacion
+		Ropas ropa3 = new Ropas("Prueba", 10000, "prueba", 2);
+		
 		
 		MetodosImpl tienda = new MetodosImpl();
 		
