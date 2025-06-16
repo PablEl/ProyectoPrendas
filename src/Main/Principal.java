@@ -15,6 +15,9 @@ public class Principal {
 		//Modificacion
 		Ropas ropa3 = new Ropas("Prueba", 10000, "prueba", 2);
 		
+		//Modificacion otra rama
+		Ropas ropa4 = new Ropas("Prueba", 10000, "prueba", 2);
+		
 		
 		MetodosImpl tienda = new MetodosImpl();
 		
